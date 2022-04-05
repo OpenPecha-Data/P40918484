@@ -1,0 +1,133 @@
+id: P40918484
+initial_creation_type: input
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA3JT13308
+  instance_id: http://purl.bdrc.io/resource/IE3JT13308
+  collection_id: http://purl.bdrc.io/resource/PR0ET004
+  language_id: None
+  title:
+    bo:
+    - གསུང་འབུམ། གཞོན་ནུ་བློ་གྲོས།
+  alt_title:
+    bo:
+    - རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས་ཀྱི་གསུང་འབུམ།
+  author: http://purl.bdrc.io/resource/P60
+  publisher: GuruLamaWorks
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    613ea311ba8345e787d2e877e0a15939:
+      title: ༄༅།་།ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་རིགས་པའི་འདོད་འཇོ་ཞེས་བྱ་བ་བཞུགས་པའི་དབུ་ཕྱོགས་སོ།་།ན་མོ་གུ་རུ་ཝེ།ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་ར
+      volume_number: 1
+      base_file: UT3JT13308_001_0000.txt
+      reference: http://purl.bdrc.io/resource/VL8274E66BC819A763
+      image_group: null
+      quality: null
+    35687c502f7446d4bc48e053972755d9:
+      title: ༄༅།་།རྗེ་བཙུན་ཆེན་པོ་རེད་མདའ་བའི་གསུང་འབུམ་ཐོར་བུ་བ་ལས་ཚིགས་བཅད་ཀྱི་ཚོགས་འགའ་བཞུགས་སོ།་།སེམས་ལ་སྐུལ་བའི་ཚིགས་སུ་བཅད་པའོ།་།ཕྱོ
+      volume_number: 10
+      base_file: UT3JT13308_010_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF5D2BFAA2948D873
+      image_group: null
+      quality: null
+    39dc89a6be4e4fb5be5ac19d246a3ac1:
+      title: ༄༅།་།རེད་མདའ་བས་མཛད་པའི་དཔལ་གསང་བ་འདུས་པའི་དཀྱིལ་འཁོར་དུ་དབང་བསྐུར་བའི་ཆོ་གའི་རིམ་པ་དོན་གསལ་ཞེས་བྱ་བ་བཞུགས་སོ།་།རྡོ་རྗེ་འཆང་དབ
+      volume_number: 7
+      base_file: UT3JT13308_007_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA21C34E4D0B21032
+      image_group: null
+      quality: null
+    d662b9ac0b6d47938b63118b9a3526a4:
+      title: ༄༅།་།གཞན་གྱི་ཐེ་ཚོམ་སེལ་བྱེད་དྲིས་ལན་ཀྱི་སྐོར་བཞུགས་སོ།་།ལོ་ཙཱ་བ་དོན་བཟང་གི་དྲིས་ལན།ཐལ་རང་གི་ཁྱད་པར་ནི།གང་ལས་གྱེས་པའི་གཞི།ཇི་ལ
+      volume_number: 13
+      base_file: UT3JT13308_013_0000.txt
+      reference: http://purl.bdrc.io/resource/VL201CFD2B7169E11D
+      image_group: null
+      quality: null
+    65df85dacd7b40ada31155e93edd5297:
+      title: ༄༅།་།དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བཤད་ནོར་བུའི་ཕྲེང་བ་ཞེས་བྱ་བ་བཞུགས་སོ།་།བཅོམ་ལྡན་འདས་ངག་གི་དབང་ཕྱུག་ལ་ཕྱག་
+      volume_number: 2
+      base_file: UT3JT13308_002_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF4302D853539AD92
+      image_group: null
+      quality: null
+    d9555baad4c043cc86f293e295cb3e18:
+      title: ༄༅།་།དཔལ་དུས་ཀྱི་འཁོར་ལོའི་ངེས་དོན་གསལ་བར་བྱེད་པ་རིན་པོ་ཆེའི་སྒྲོན་མ་ཞེས་བྱ་བ་བཞུགས་སོ།་།རེད་མདའ་བ་གཞོན་ནུ་བློ་གྲོས་ཀྱིས་བརྩམས
+      volume_number: 14
+      base_file: UT3JT13308_014_0000.txt
+      reference: http://purl.bdrc.io/resource/VL45BBB2586ADB8B51
+      image_group: null
+      quality: null
+    7dcce741a9f44d3c8f34a30475e54e06:
+      title: ༠༠༡ཚད་མ་རྣམ་འགྲེལ་གྱི་རྣམ་བཤད་རིགས་པའི་འདོད་འཇོ་ཞེས་བྱ་བ་བཞུགས་པའི་དབུ་ཕྱོགས།༠༠༢དམ་པའི་ཆོས་མངོན་པ་ཀུན་ལས་བཏུས་པའི་སྙིང་པོ་ལེགས་བ
+      volume_number: 16
+      base_file: UT3JT13308_016_0000.txt
+      reference: http://purl.bdrc.io/resource/VL0F21A4B8F0A71C54
+      image_group: null
+      quality: null
+    8df2429719d64cf3abe066b39d1f4db3:
+      title: ༄༅།་།རྗེ་བཙུན་རེད་མདའ་བའི་གསུང་འབུམ་ཐོར་བུ་ལས་བསྟོད་པའི་ཚོགས་རྣམས་བཞུགས་སོ།་།ཕྱོགས་བཅུའི་རྒྱལ་བ་སྲས་དང་བཅས་པ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་
+      volume_number: 8
+      base_file: UT3JT13308_008_0000.txt
+      reference: http://purl.bdrc.io/resource/VLA734DCB814158817
+      image_group: null
+      quality: null
+    e09e27e658b14db68bec7bfad23b943f:
+      title: ༄༅།་།ཐེག་གསུམ་འཕགས་པའི་རྟོགས་པ་རྣམ་པར་འབྱེད་པའི་རབ་ཏུ་བྱེད་པ་ལུང་རིགས་གསལ་བཀོད་ཞེས་བྱ་བ།་།ཕྱོགས་བཅུའི་རྒྱལ་བ་སྲས་དང་བཅས་པ་ཐམས་
+      volume_number: 3
+      base_file: UT3JT13308_003_0000.txt
+      reference: http://purl.bdrc.io/resource/VL2F0EAC9173265232
+      image_group: null
+      quality: null
+    db9d95f473804b059273c23d8b5cb0ed:
+      title: ༄༅།་།སྤྲིང་ཡིག་གི་ཚོགས་བཞུགས་སོ།་།བཅོམ་ལྡན་འདས་ངག་གི་དབང་ཕྱུག་ལ་ཕྱག་འཚལ་ལོ།་།ཉི་མའི་གཉེན་གྱི་རིགས་འཁྲུངས་ཤིང་།་།སྨྲ་བའི་དམ་པ
+      volume_number: 11
+      base_file: UT3JT13308_011_0000.txt
+      reference: http://purl.bdrc.io/resource/VL79F9CF88AF158C5A
+      image_group: null
+      quality: null
+    814d791cf0af4fcd94f8a13b5365d2bb:
+      title: ༄༅།་།འཕགས་པ་རྣམ་པར་འཐག་པའི་མདོའི་དུམ་བུ་བཞུགས་སོ།་།ན་མོཿཤཱཀྱ་མུ་ནེ་ཡེ།འཕགས་པ་རྣམ་པར་འཐག་པ་བསྡུས་པའི་མདོ་ལས།སེམས་ཅན་དག་འདི་ལྟ་ས
+      volume_number: 9
+      base_file: UT3JT13308_009_0000.txt
+      reference: http://purl.bdrc.io/resource/VL6918E9542781D69F
+      image_group: null
+      quality: null
+    41d44d0278e844a5b9710ef18313d37c:
+      title: ༄༅།་།རྣམ་རིག་གྲུབ་པའི་རྒྱན་ཞེས་བྱ་བ་བཞུགས་སོ།་།ཕྱོགས་བཅུའི་རྒྱལ་བ་སྲས་དང་བཅས་པ་རྣམས་ལ་ཕྱག་འཚལ་ལོ།་།དམ་པའི་སྤྱོད་པ་དང་མཐུན་པར་
+      volume_number: 4
+      base_file: UT3JT13308_004_0000.txt
+      reference: http://purl.bdrc.io/resource/VL80B3D0B52DACF2FB
+      image_group: null
+      quality: null
+    f55bde96c5a7401d8d87a7ed49eb6c74:
+      title: ༄༅།་།རེད་མདའ་བས་མཛད་པའི་དཔལ་གསང་བ་འདུས་པའི་འགྲེལ་པ་སྒྲོན་མ་གསལ་བ་དང་བཅས་པའི་བཤད་སྦྱར་ཡིད་ཀྱི་མུན་སེལ་ཞེས་བྱ་བའི་ལེགས་བཤད་རྒྱ་མཚ
+      volume_number: 6
+      base_file: UT3JT13308_006_0000.txt
+      reference: http://purl.bdrc.io/resource/VL969145CD4267A857
+      image_group: null
+      quality: null
+    d12c1614146349fb891d9ed1b9c87898:
+      title: ༄༅།་།དབུ་མ་རྩ་བའི་འགྲེལ་པ་འཐད་པའི་སྣང་བ་ཞེས་བྱ་བ་བཞུགས་པ་ལགས་སོ།་།ཕྱོགས་བཅུའི་རྒྱལ་བ་སྲས་དང་བཅས་པ་ཐམས་ཅད་ལ་ཕྱག་འཚལ་ལོ།་།གང་གི
+      volume_number: 5
+      base_file: UT3JT13308_005_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF0741316C1E84DDB
+      image_group: null
+      quality: null
+    4ef3e5c2219049f4a95662d031acd907:
+      title: ༄༅།་།རེད་མདའ་བའི་གསུང་ཐོར་བུ་ལས་ཞལ་གདམས་འགའ་ཞིག་ཟུར་དུ་བཀོལ་བ།་།༈།གང་ཞིག་ལེགས་གསུང་དམ་ཆོས་འདུལ་བ་ལ།་།རབ་ཏུ་བྱུང་ནས་ལེགས་པར་མི
+      volume_number: 15
+      base_file: UT3JT13308_015_0000.txt
+      reference: http://purl.bdrc.io/resource/VLE31DA2F4FCEC592A
+      image_group: null
+      quality: null
+    54cd298c2841447293c968eaeedf51c4:
+      title: ༄༅།་།ཕན་བྱེད་གཞན་ལ་གདམས་པ་འདོམས་པའི་སྐོར་བཞུགས་སོ།་།ཆོས་རྗེ་གྲགས་པ་རྒྱལ་མཚན་པ་ལ་ཕུལ་བའོ།་།ན་མོ་ལོ་ཀེ་ཤྭ་ར་ཡ།གྲགས་པ་བཟང་པོའི་ག
+      volume_number: 12
+      base_file: UT3JT13308_012_0000.txt
+      reference: http://purl.bdrc.io/resource/VL9E1225BFA0777134
+      image_group: null
+      quality: null
+  reproductionOf: []
+created_at: '2021-12-30T16:29:07.848877'
+last_modified_at: '2021-12-30T16:29:07.848887'
